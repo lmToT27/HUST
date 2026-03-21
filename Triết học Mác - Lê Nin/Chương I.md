@@ -23,6 +23,6 @@
 #### a. Nội dung vấn đề cơ bản của Triết học:
 - Theo Ăngghen, vấn đề cơ bản lớn của mọi triết học, đặc biệt là của triết học hiện đại, là vấn đề **quan hệ** *giữa tư duy với tồn tại (hay quan hệ giữa vật chất với ý thức)*
 - Mặt 1: Giữa vật chất và ý thức, cái nào có *trước* cái nào có *sau* và cái nào quyết định cái nào
-- Mặt 2: Con người có khả năng nhận thức hay không
+- Mặt 2: Con người có khả năng nhận thức được thế giới hay không
 #### b. Chủ nghĩa duy vật và chủ nghĩa duy tâm:
 #### c. Thuyết có thể biết (Khả tri luận) và thuyết không thể biết (Bất khả tri luận):
