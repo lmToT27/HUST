@@ -37,7 +37,7 @@
 	- Tương tự, chủ nghĩa duy tâm tồn tại dưới 2 hình thức cơ bản (nhất nguyên duy tâm):
 		- Chủ nghĩa duy tâm khách quan: có thực thể tinh thần tồn tại trước và sinh ra tất cả, chi phối tất cả (tinh thần của thực thể thần bí không phải con người)
 		- Chủ nghĩa duy tâm chủ quan: cảm giác, ý thức con người là cái có trước và nó sản sinh ra tất cả
-	- Bên cạnh đó, nhị nguyên luận cho rằng thế giớii này bắt nguồn từ 2 yếu tố: vật chất và ý thức (tinh thần)
+	- Bên cạnh đó, nhị nguyên luận cho rằng thế giới này bắt nguồn từ 2 yếu tố: vật chất và ý thức (tinh thần)
 - *Bên cạnh mặt thứ nhất, vấn đề cơ bản còn mặt thứ 2, và để giải quyết mặt thứ 2 gồm 2 cách giải quyết đối lập nhau*
 #### c. Thuyết có thể biết (Khả tri luận) và thuyết không thể biết (Bất khả tri luận):
 - Khả tri luận cho rằng: Con người có khả năng nhận thức được thế giới
@@ -49,4 +49,6 @@
 | --------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | Nhận thức đối tượng trong trạng thái tĩnh tại, cô lập, tách rời | Nhận thức đối tượng trong các mối liện hệ phổ biến; vận động, phát triển |
 | Vận động: cơ học                                                | Vận động: nhiều hình thức (cơ học, vật lý,...)                           |
+|                                                                 |                                                                          |
+
 
