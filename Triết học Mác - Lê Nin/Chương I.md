@@ -45,9 +45,37 @@
 ### 3. Biện chứng và Siêu hình:
 #### a. Khái niệm Biện chứng và Siêu hình trong lịch sử:
 
-| Phương pháp Siêu hình                                           | Phương pháp Biện chứng                                                   |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Nhận thức đối tượng trong trạng thái tĩnh tại, cô lập, tách rời | Nhận thức đối tượng trong các mối liện hệ phổ biến; vận động, phát triển |
-| Vận động: cơ học                                                | Vận động: nhiều hình thức (cơ học, vật lý,...)                           |
-|                                                                 |                                                                          |
-
+| Phương pháp Siêu hình                                                                                                                                             | Phương pháp Biện chứng                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Nhận thức đối tượng trong trạng thái tĩnh tại, cô lập, tách rời                                                                                                   | Nhận thức đối tượng trong các mối liện hệ phổ biến; vận động, phát triển                                    |
+| Vận động: cơ học                                                                                                                                                  | Vận động: nhiều hình thức (cơ học, vật lý,...)                                                              |
+| Phát triển: tăng giảm về số lượng, khối lượng, không thay đổi về chất                                                                                             | Phát triển không chỉ là sự tăng giảm số lượng, khối lượng mà còn thay đổi về chất                           |
+| Nguồn gốc vận động, phát triển nằm bên ngoài sự vật hiện tượng                                                                                                    | Nguồn gốc vận động, phát triển là do mâu thuẫn nội tại của sự vật hiện tượng quy định                       |
+| **Vai trò:** Phương pháp tư duy siêu hình có vai trò nhất định trong một phạm vi nào đó nhưng bị hạn chế khi giải quyết các vấn đề về vận động và các mối liên hệ | **Vai trò:** Phương pháp tư duy biện chứng là công cụ hữu hiệu giúp con người nhận thức và cải tạo thế giới |
+#### b. Các hình thức của phép biện chứng trong lịch sử:
+ * **Phép biện chứng duy vật thời kỳ cổ đại:** Tự phát, ngây thơ
+ * **Phương Đông:**
+	 * Học thuyết Âm dương
+	 * Học thuyết Ngũ hành
+## II. Triết học Mác - Lê Nin và vai trò của nó trong đời sống xã hội:
+### 1. Sự ra đồi và phát triển triết học Mác - Lê Nin:
+#### a. Những điều kiện, tiền đề ra đời triết học Mác:
+- **Điều kiện kinh tế - xã hội:**
+	- Ra đời vào những năm 40 của thế kỉ XIX, do Mác và Ăng-ghen sáng lập. Đây là thời kì phương thức phát triển sản xuất tư bản chủ nghĩa đã phát triển mạnh mẽ, trong điều kiện cách mạng công nghiệp
+	- Sự xuất hiện của giai cấp vô sản trên vũ đài lịch sử - nhân tố chính trị - xã hội quan trọng
+	- Thực tiễn các mạng của giai cấp vô sản - cơ sở chủ yếu nhất
+- **Nguồn gốc lý luận:**
+	- Kế thừa những thành tựu trong lịch sử tư tưowgnr của nhân loại, trực tiếp là từ:
+		- Triết học cổ điển Đức
+		- Kinh tế chính trị học cổ điển Anh: A.Smith, D.Ricardo
+		- Và CNXH không tưởng Pháp (Xanhximong, Phurie, ...)
+- **Tiền đề khoa học tự nhiên:**
+	- Sự phát triển của khoa học tự nhiên cuối thế kỉ XVIII - đầu thế kỉ XIX, đặc biệt là ba phát minh:
+		- Định lụaat bảo toàn và chuyển hoá năng lượng
+		- Học thuyết tiến hoá của Đác-uyn
+		- Học thuyết tế bào
+#### b. Những thời kỳ chủ yếu trong sự hình thành và phát triển triết học Mác:
+#### c. Thực chất và ý nghĩa cuộc cách mạng trong triết học do Mác và Ăng-ghen thực hiện:
+#### d. Giai đoạn V.I Lê Nin trong sự phát triển triết học Mác:
+### 2. Đối tượng và chức năng của triết học Mác - Lê Nin:
+### 3. Vai trò của triết học Mác - Lê Nin trong đời sống xã hội và trong sự nghiệp đổi mới ở Việt Nam:
