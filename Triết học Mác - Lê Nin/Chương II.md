@@ -1,4 +1,4 @@
-# Chủ nghĩa duy vật biện chứng
+**********# Chủ nghĩa duy vật biện chứng
 ## I. Vật chất và Ý thức
 ### 1. Vật chất và phương thức tồn tại của vật chất:
 #### a. Quan niệm của chủ nghĩa duy tâm và chủ nghĩa duy vật trước Mác:
@@ -99,11 +99,11 @@ Là sự phân nhánh của con người về hiện thực khách quan, đượ
 	- Nguyên lý về mối liên hệ phổ biến
 	- Nguyên lý về sự phát triển
 ##### Nguyên lý về mối liên hệ phổ biến:
-- Khái niệm:
+- **Khái niệm:**
 	- Quan điểm siêu hình: mối liên hệ bề ngoài, ngẫu nhiên
 	- Quan điểm biện chứng:
 		- **Mối liên hệ:** là một phạm trù triết học dùng để chỉ các mối ràng buộc tương hỗ, quy định và ảnh hưởng lẫn nhau giữa các yếu tố, bộ phận trong một đối tượng hoặc giữa các đối tượng
-##### Tính chất mối liên hệ:
+###### Tính chất mối liên hệ:
 - **Tính khách quan:** Mối liên hệ là cái vốn có của sự vật hiện tượng, tồn tại độc lập với ý thức con người, con người chỉ nhận thức sự vật hiện tượng thông qua mối liên hệ vốn có của nó
 	- Bản chất sự vật hiện tượng được **hình thành biến đổi** và bộc lộ là thông qua mối liên hệ phổ biến
 - **Tính phổ biến:** Mối liên hệ diễn ra ở tất cả các sự vật hiện tượng, trong tất cả các lĩnh vực: tự nhiên, xã hội và tư duy
@@ -111,10 +111,27 @@ Là sự phân nhánh của con người về hiện thực khách quan, đượ
 	- Mối liên hệ bên trong - mối liên hệ bên ngoài
 	- Mối liên hệ bản chất - mối liên hệ không bản chất
 	- Mối liên hệ gián tiếp - mối liên hệ trực tiếp
-##### Ý nghĩa phương pháp luận:
+###### Ý nghĩa phương pháp luận:
 - **Nguyên tắc toàn diện:**
 	- Phải xem xét tất cả các mặt các mối liên hệ và các khâu trung gian của sự vật
 	- Phải phân biệt, đánh giá vị trí, vai trò của các mối liên hệ tránh dàn trải, bình quân
 	- Xem xét sự vật trong tính chỉnh thể của nó và giải quyết sự vật phải đảm bảo tính đồng bộ
 - **Nguyên tắc lịch sử cụ thể:**
 	- Phải đặt sự vật hiện tượng vào không gian, thời gian mà sự vật ra đời, tồn tại
+##### Nguyên lý về sự phát triển:
+- **Khái niệm:
+	- **Quan điểm siêu hình:**
+		- Phát triển chỉ là sự tăng giảm thuần túy về mặt số lượng hay khốil ượng, không có sự thay đổi về chất.
+		- Nguồn gốc của sự phát triển là ở bên ngoài sự vật hiện tượng
+	- **Quan điểm biện chứng:** 
+		- Phát triển là quá trình vận động từ thấp đến cao, từ kém hoàn tiện đến hoàn thiện hơn, từ chất cũ đến chất mới ở trình độ cao hơn
+###### Tính chất của sự phát triển:
+- **Tính khách quan:** biểu hiện ở chỗ nguồn gốc của phát triển nằm ngay trong chính bản thân sự vật hiện tượng (mâu thuẫn quy định), không phụ thuộc vào ý muốn chủ quan con người
+- **Tính phổ biến:** phát triển diễn ra ở tất cả các sự vật hiện tượng trong cả tự nhiên, xã hội và tư duy
+- **Tính kế thừa:** cái mới ra đời trên cơ sở kế thừa giá trị tích cực cái cũ để lại
+- **Tính phong phú, đa dạng:** Quá trình phát triển của sự vật hiện tượng không giống nhau và còn phụ thuộc vào không gian, thời gian, vào các yếu tố, điều kiện tác động lên sự phát triển đó
+###### Ý nghĩa phương pháp luận:
+- Khi xem xét sự vật hiện tượng phải luoon đặt nó trong khuynh hướng vận động, biến đổi, chuyển hoá nhằm phát hiện ra xu hướng biến đổi
+- Nhận thức sự vật hiện tượng trong tính biện chứng để thấy được tính quanh co, phữc tạp của sự phát triển
+- Biết phát hiện và ủng hộ cái mới; chống bảo thủ, trì trệ định kiến
+- Biết kế thừa các yếu tố tích cực từ đối tượng cũ và phát triển sáng tạo chúng trong điều kiện mới
