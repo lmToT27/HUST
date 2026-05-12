@@ -1,4 +1,3 @@
-**********# Chủ nghĩa duy vật biện chứng
 ## I. Vật chất và Ý thức
 ### 1. Vật chất và phương thức tồn tại của vật chất:
 #### a. Quan niệm của chủ nghĩa duy tâm và chủ nghĩa duy vật trước Mác:
@@ -131,7 +130,7 @@ Là sự phân nhánh của con người về hiện thực khách quan, đượ
 - **Tính kế thừa:** cái mới ra đời trên cơ sở kế thừa giá trị tích cực cái cũ để lại
 - **Tính phong phú, đa dạng:** Quá trình phát triển của sự vật hiện tượng không giống nhau và còn phụ thuộc vào không gian, thời gian, vào các yếu tố, điều kiện tác động lên sự phát triển đó
 ###### Ý nghĩa phương pháp luận:
-- Khi xem xét sự vật hiện tượng phải luoon đặt nó trong khuynh hướng vận động, biến đổi, chuyển hoá nhằm phát hiện ra xu hướng biến đổi
+- Khi xem xét sự vật hiện tượng phải luôn đặt nó trong khuynh hướng vận động, biến đổi, chuyển hoá nhằm phát hiện ra xu hướng biến đổi
 - Nhận thức sự vật hiện tượng trong tính biện chứng để thấy được tính quanh co, phữc tạp của sự phát triển
 - Biết phát hiện và ủng hộ cái mới; chống bảo thủ, trì trệ định kiến
 - Biết kế thừa các yếu tố tích cực từ đối tượng cũ và phát triển sáng tạo chúng trong điều kiện mới
