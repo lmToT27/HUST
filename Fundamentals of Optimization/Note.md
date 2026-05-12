@@ -1,4 +1,4 @@
-## Bernoulli Trial
+`## Bernoulli Trial
 - Denoted by Ber(p): P(success) = p
 - Mean = p
 - Variance = p * q
