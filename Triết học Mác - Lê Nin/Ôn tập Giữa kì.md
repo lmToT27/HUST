@@ -32,3 +32,19 @@ Vấn đề cơ bản của triết học gồm 2 mặt:
 - Ăng-ghen:...
 - 2 mặt trong vấn đề cơ bản của triết học
 #### Tại sao (2đ)
+# Chủ đề II: Sự đối lập giữa 2 phương pháp tư duy Biện chứng - Siêu hình
+### 1. (4 điểm) Phân tích sự đối lập giữa phương pháp biện chứng và phương pháp siêu hình và ý nghĩa của hai phương pháp tư duy đó
+#### Phương pháp biện chứng (Sơ lược lịch sử hình thành, phát triển; Bản chất và ý nghĩa) (2 điểm)
+- Được thể hiện trong ba hình thức cơ bản của phép biện chứng: phép biện chứng thời cổ đại, phép biện chứng của Hê-ghen trong triết học cổ điển Đức và phép biện chứng duy vật do C.Mác và Ăng-ghen xây dựng vào những năm 40 của thế kỉ 19.
+- Bản chất:
+	+ Nhận thức các sự vật hiện tượng thông qua mối liên hệ quy định ràng buộc, tác động qua lại lẫn nhau, vừa thấy bộ phận, vừa thấy toàn thể
+	+ Nhận thức đối tượng trong trạng thái luôn vận động biến đổi nằm trong khuynh hướng chung của sự phát triển. Đó là quá trình thay đổi về chất của sự vật
+	+ Nguồn gốc của sự phát triển nằm trong chính bản thân của sự vật hiện tượng. Đó là quá trình đấu tranh giữa các mặt đối lập giải quyết mâu thuẫn nội tại của chúng
+- Vai trò: phương pháp tư duy biện chứng là công cụ hữu hiệu giúp con người nhận thức và cải tạo thế giới
+#### Phương pháp siêu hình (Sơ lược lịch sử hình thành, phát triển; Bản chất và ý nghĩa) (2 điểm)
+- Được thể hiện trong chủ nghĩa duy vật siêu hình thế kỉ 17, 18
+- Bản chất:
+	- Nhận thức các sự vật hiện tượng ở trạng thái cô lập, tách rời, chỉ thấy bộ phận không thấy toàn thể.
+	- Nhận thức các sự vật hiện tượng trong trạng thái tĩnh tại không vận động, không phát sinh phát triển. Nếu có biến đổi chỉ biến đổi về lượng của sự vật hiện tượng
+	- Nguồn gốc của sự biến đổi nằm ngoài các sự vật hiện tượng
+- Vai trò: phương pháp tư duy siêu hình có vai trò nhất định trong một phạm vi nào đó nhưng còn hạn chế khi giải quyết các vấn đề về vận động và các mối liên hệ
