@@ -134,3 +134,18 @@ Là sự phân nhánh của con người về hiện thực khách quan, đượ
 - Nhận thức sự vật hiện tượng trong tính biện chứng để thấy được tính quanh co, phữc tạp của sự phát triển
 - Biết phát hiện và ủng hộ cái mới; chống bảo thủ, trì trệ định kiến
 - Biết kế thừa các yếu tố tích cực từ đối tượng cũ và phát triển sáng tạo chúng trong điều kiện mới
+#### b. Các cặp phạm trù cơ bản của phép biện chứng duy vật:
+##### Cái riêng và cái chung:
+- **Định nghĩa:**
+	- *Cái riêng* là phạm trù tiết học dùng để chỉ một sự vật, hiện tượng nhất định
+	- *Cái chung* là phạm trù triết học dùng để chỉ những mặt, những thuộc tính chung không những có ở một sự vật, hiện tượng nào đó mà còn lặp lại trong nhiều sự vật, hiện tượng (nhiều cái riêng) khác
+	- *Cái đơn nhất* là phạm trù triết học dùng để chỉ các mặt, các đặc điểm chỉ vốn có ở một sự vật, hiện tượng (một cái riêng) nào đó mà không lặp lại ở sự vật, hiện tượng nào khác
+##### Quan hệ biện chứng giữa cái riêng và cái chung:
+- Cái chung, cái đơn nhất nằm trong cái riêng, thông qua cái riêng thể hiện sự tồn tại của mình. Không có cái chung thuần túy tồn tại bên ngoài cái riêng
+- Cái riêng chỉ tồn tại trong mối quan hệ với cái chung, không có cái riêng nào tách rời cái chung
+- Cái riêng là cái toàn bộ, phong phú hơn cái chung, vì ngoài những điểm chung, cái riêng còn có cái đơn nhất. Cái chung sâu sắc hơn cái riêng, gắn liền với bản chất, quy định phương hướng tồn tại và phát triển của cái riêng
+- Cái đơn nhất và cái chung có thể chuyển hoá lẫn nhau trong quá trình phát triển của sự vật, hiện tượng
+##### Ý nghĩa phương pháp luận:
+- Muốn nhận thức được cái chung, cái bản chất thì phải xuất phát từ cái riêng, từ những sự vật, hiện tượng riêng lẻ
+- Nhiện vụ của nhận thức là phải tìm ra cái chung và trong hoạt động thực tiễn phải dự vào cái chung để cải tạo cái riêng
+- Trong hoạt động thực tiễn ta cần chủ động tác động vào sự chuyển hoá cái mới thành cái chung để phát triển nó, và ngưojc lại cái cũ thành cái đơn nhất để xoá bỏ nó
