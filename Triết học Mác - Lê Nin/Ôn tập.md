@@ -1,4 +1,4 @@
-# Chủ đề I: Vấn đề cơ bản của triết học
+# Nội dung I: Vấn đề cơ bản của triết học
 ### 1. (6 điểm) Vấn đề cơ bản của triết học là gì? Phân tích nội dung vấn đề cơ bản của triết học?
 #### Định nghĩa (1đ)
 - Theo Ăng-ghen: Vấn đề cơ bản của triết học, đặc biệt là triết học hiện đại, là vấn đề quan hệ giữa tư duy và tồn tại
@@ -32,7 +32,7 @@ Vấn đề cơ bản của triết học gồm 2 mặt:
 - Ăng-ghen:...
 - 2 mặt trong vấn đề cơ bản của triết học
 #### Tại sao (2đ)
-# Chủ đề II: Sự đối lập giữa 2 phương pháp tư duy Biện chứng - Siêu hình
+# Nội dung II: Sự đối lập giữa 2 phương pháp tư duy Biện chứng - Siêu hình
 ### 1. (4 điểm) Phân tích sự đối lập giữa phương pháp biện chứng và phương pháp siêu hình và ý nghĩa của hai phương pháp tư duy đó
 #### Phương pháp biện chứng (Sơ lược lịch sử hình thành, phát triển; Bản chất và ý nghĩa) (2 điểm)
 - Được thể hiện trong ba hình thức cơ bản của phép biện chứng: phép biện chứng thời cổ đại, phép biện chứng của Hê-ghen trong triết học cổ điển Đức và phép biện chứng duy vật do C.Mác và Ăng-ghen xây dựng vào những năm 40 của thế kỉ 19.
@@ -48,3 +48,16 @@ Vấn đề cơ bản của triết học gồm 2 mặt:
 	- Nhận thức các sự vật hiện tượng trong trạng thái tĩnh tại không vận động, không phát sinh phát triển. Nếu có biến đổi chỉ biến đổi về lượng của sự vật hiện tượng
 	- Nguồn gốc của sự biến đổi nằm ngoài các sự vật hiện tượng
 - Vai trò: phương pháp tư duy siêu hình có vai trò nhất định trong một phạm vi nào đó nhưng còn hạn chế khi giải quyết các vấn đề về vận động và các mối liên hệ
+# Nội dung III: Phạm trù vật chất
+### 1. (6 điểm) Phân tích định nghĩa vật chất của Lênin và rút ra ý nghĩa khoa học của nó
+#### Khái quát quan điểm vật chất trong lịch sử (ngắn gọn) (0.5 điểm)
+#### Hoàn cảnh ra đời định nghĩa (1 điểm)
+#### Định nghĩa vật chất của Lênin (1 điểm)
+#### Phân tích định nghĩa (3 ý) (2.5 điểm)
+#### Ý nghĩa (3 ý) (1 điểm)
+# Nội dung IV: Phạm trù ý thức
+### 1. (6 điểm) Phân tích quan điểm của chủ nghĩa duy vật biện chứng về nguồn gốc và bản chất của ý thức
+#### Nguồn gốc của ý thức (4 điểm)
+##### Nguồn gốc tự nhiên (Bộ não người, Phản ánh và các hình thức phản ánh, thế giới hiện thực khách quan) (2 điểm)
+##### Nguồn gốc xã hội (Vai trò của lao động, Vai trò của ngôn ngữ) (2 điểm)
+#### Bản chất của ý thức (3 ý) (2 điểm)
