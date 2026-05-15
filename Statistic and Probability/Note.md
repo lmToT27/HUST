@@ -23,8 +23,8 @@ $$f(x) = \frac{1}{\sqrt{2\pi\sigma^2}} e^{-\frac{(x-\mu)^2}{2\sigma^2}}$$
 - Variance: $$ \text{Var}(X) = n \frac{K}{N} \left(1 - \frac{K}{N}\right) \frac{N-n}{N-1} $$
 ## Exponential Distribution
 - PDF: $$  f(x) = \begin{cases} 1 - e^{-\lambda x} \ \ if  \ \ x > 0\\ 0 \ \ otherwise \end{cases}$$
-- Mean: $$\frac{1}{\mu}$$
-- Variance: $$\frac{1}{\mu^2}$$
+- Mean: $$\frac{1}{\lambda}$$
+- Variance: $$\frac{1}{\lambda^2}$$
 - Memoryless Property: $$ P(X > s + t \mid X > s) = P(X > t) $$
 ## Uniform Distribution
 - In interval $[a, b]$, $$ f(x) = \begin{cases} \frac{1}{b - a} \ \ if \ \ x \in [a, b] \\ 0 \ \ otherwise\end{cases} $$
