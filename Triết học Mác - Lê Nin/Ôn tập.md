@@ -51,7 +51,16 @@ Vấn đề cơ bản của triết học gồm 2 mặt:
 # Nội dung III: Phạm trù vật chất
 ### 1. (6 điểm) Phân tích định nghĩa vật chất của Lênin và rút ra ý nghĩa khoa học của nó
 #### Khái quát quan điểm vật chất trong lịch sử (ngắn gọn) (0.5 điểm)
+- Các quan điểm trước Mác về vật chất:
+	- Thời cổ đại: đây là thời khoa học kỹ thuật chưa phát triển, nhận thức con người còn hạn chế, cho nên các nhà triết học nhận thức về thế giới một cách trực quan cảm tính. Họ đồng nhất vật chất với nước, lửa, không khí, "nguyên tử"
+	- Vào thế kỉ 17, 18: Đây là thời kì cơ học cổ điển của Newton thịnh hành phát triển, các nhà triết học đề cao vai trò của khối lượng, nên họ đồng nhất vật chất với khối lượng
 #### Hoàn cảnh ra đời định nghĩa (1 điểm)
+- Cuối thể kỉ XIX - đầu thế kỉ XX với những phát minh mới trong khoa học tự nhiên, con người có những hiểu biết sâu sắc hơn về nguyên tử:
+	- 1895: Roetgen phát hiện ra tia X
+	- 1896: Becquerel tìm ra hiện tượng phóng xạ
+	- 1897: Thompson tìm ra điện từ và nguyên tử
+	- 1905: Thuyết tương đối hẹp và năm 1916 là thuyết tương đối rộng của Einstein đã chứng minh: không gian, thời gian, khối lượng luôn biến đổi cùng sự vận động của vật chất
+- Cuộc khủng hoảng thế giới quan trong lĩnh vực vật lý học cũng như triết học. Chủ nghĩa duy tâm xuyên tạc rằng vật chất bị tiêu tan chỉ còn ý thức, duy vật mất đi chỉ còn duy tâm. Triết học duy vật lúc này cần phải đưa ra được một quan niệm đúng đắn, khoa học về phạm trù vật chất
 #### Định nghĩa vật chất của Lênin (1 điểm)
 #### Phân tích định nghĩa (3 ý) (2.5 điểm)
 #### Ý nghĩa (3 ý) (1 điểm)
