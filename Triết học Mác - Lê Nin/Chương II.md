@@ -148,4 +148,13 @@ Là sự phân nhánh của con người về hiện thực khách quan, đượ
 ##### Ý nghĩa phương pháp luận:
 - Muốn nhận thức được cái chung, cái bản chất thì phải xuất phát từ cái riêng, từ những sự vật, hiện tượng riêng lẻ
 - Nhiện vụ của nhận thức là phải tìm ra cái chung và trong hoạt động thực tiễn phải dự vào cái chung để cải tạo cái riêng
-- Trong hoạt động thực tiễn ta cần chủ động tác động vào sự chuyển hoá cái mới thành cái chung để phát triển nó, và ngưojc lại cái cũ thành cái đơn nhất để xoá bỏ nó
+- Trong hoạt động thực tiễn ta cần chủ động tác động vào sự chuyển hoá cái mới thành cái chung để phát triển nó, và ngược lại cái cũ thành cái đơn nhất để xoá bỏ nó
+#### c. Các quy luật cơ bản của phép biện chứng duy vật:
+##### Quy luật từ những sự thay đổi về lượng dẫn đến sự thay đổi về chất và ngược lại (quy luật lượng chất):
+- **Vai trò của quy luật:** Quy luật chỉ ra cách thức, phương thức vận động phát triển của sự vật, hiện tượng.
+- **Khái niệm:**
+	- *Chất* là khái niệm dùng để chỉ tính quy định khách quan vốn có của sự vật, hiện tượng, là sự thống nhất hữu cơ của các thuộc tính, yếu tố tạo nên sự vật, hiện tượng làm cho sự vật, hiện tượng là nó mà không phải là sự vật, hiện tượng khác
+	- *Lượng* là khái niệm dùng để chỉ tính quy định vốn có của sự vật, hiện tượng về mặt quy mô, trình độ phát triển, các yếu tổ biểu hiện ở số lượng các thuộc tính, ở tổng số các bộ phận, ở đại lượng, ở tốc độ và nhịp điệu vận động và phát triển của sự vật, hiện tượng
+	- *Độ* là giới hạn tồn tại của sự vật hiện tượng mà trong đó, sự thay đổi về lượng chưa dẫn đến sự thay đổi về chất; sự vật, hiện tượng vẫn là nó, chưa chuyển hoá thành sự vật, hiện tượng khác
+	- *Điểm nút* là thời điểm mà tại đó xảy ra sự thay đổi về chất của sự vật, hiện tượng
+	- *Bước nhảy* dùng để chỉ quá trình chuyển hoá về chất của sự vật do sự thay đổi về lượng trước đó của sự vật gây ra
