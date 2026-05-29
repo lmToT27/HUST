@@ -70,3 +70,23 @@ Vấn đề cơ bản của triết học gồm 2 mặt:
 ##### Nguồn gốc tự nhiên (Bộ não người, Phản ánh và các hình thức phản ánh, thế giới hiện thực khách quan) (2 điểm)
 ##### Nguồn gốc xã hội (Vai trò của lao động, Vai trò của ngôn ngữ) (2 điểm)
 #### Bản chất của ý thức (3 ý) (2 điểm)
+# Nội dung V: Nguyên lý về sự phát triển
+### 1. (6 điểm) Phân tích cơ sở lý luận của Nguyên tắc Phát triển? ĐCSVN đã vận dụng nguyên tắc này như thế nào trong thời kỳ đổi mới?
+#### Nguyên tắc phát triển (yêu cầu) (1 điểm)
+###### Cơ sở lý luận về Nguyên tắc Phát triển là: Nội dung Nguyên lý về phát triển
+#### Nội dung Nguyên lý về Phát triển (4 điểm)
+##### Khái niệm & Phân tích khái niệm Phát triển (1 điểm)
+##### Tính chất của sự phát triển (3 điểm) (4 tính chất: khách quan, phổ biến, kế thừa, phong phú đa dạng)
+#### Sự vận dụng của Đảng Cộng sản Việt Nam (1 điểm)
+##### Thực tiễn khách quan đòi cần phải đổi mới để phát triển đất nước
+##### Đổi mới trên mọi lĩnh vực kinh tế, chính trị
+##### Thành quả đổi mới
+# Nội dung VI: Quy luật
+### 1. (6 điểm) Phân tích nội dung quy luật thống nhất và đấu tranh của các mặt đối lập? Ý nghĩa phương pháp luận của việc nghiên cứu quy luật này?
+#### Vị trí và vai trò của quy luật
+#### Nội dung quy luật
+##### Khái niệm (2.5 điểm)
+- Mặt đối lập, thống nhất mặt đối lập, đấu tranh mặt đối lập
+- Mâu thuẫn (Định nghĩa, tính chất)
+##### Mâu thuẫn là nguồn gốc động lực bên trong của sự phát triển (2.5 điểm)
+#### Ý nghĩa phương pháp luận (1 điểm) (3 ý)
