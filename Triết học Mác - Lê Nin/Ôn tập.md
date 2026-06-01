@@ -62,8 +62,15 @@ Vấn đề cơ bản của triết học gồm 2 mặt:
 	- 1905: Thuyết tương đối hẹp và năm 1916 là thuyết tương đối rộng của Einstein đã chứng minh: không gian, thời gian, khối lượng luôn biến đổi cùng sự vận động của vật chất
 - Cuộc khủng hoảng thế giới quan trong lĩnh vực vật lý học cũng như triết học. Chủ nghĩa duy tâm xuyên tạc rằng vật chất bị tiêu tan chỉ còn ý thức, duy vật mất đi chỉ còn duy tâm. Triết học duy vật lúc này cần phải đưa ra được một quan niệm đúng đắn, khoa học về phạm trù vật chất
 #### Định nghĩa vật chất của Lênin (1 điểm)
+- "Vật chất là một phạm trù triết học dùng để chỉ thực tại khách quan được đem lại cho con người trong cảm giác, được cảm giác của chúng ta chép lại, chụp lại, phản ánh và tồn tại không lệ thuộc vào cảm giác"
 #### Phân tích định nghĩa (3 ý) (2.5 điểm)
-#### Ý nghĩa (3 ý) (1 điểm)
+- Thứ nhất, vật chất là thực tại khách quan - cái tồn tại hiện thực bên ngoài ý thức và không lệ thuộc vào ý thức. Khi nói vật chất là một phạm trù triết học, tức muốn nói phạm trù này là sản phẩm của sự trừu tượng hoá, không có sự tồn tại cảm tính. Lênin nhấn mạnh rằng, phạm trù triết học này dùng để chỉ cái "Đặc tính duy nhất của vật chất mà chủ nghĩa duy vật triết học gắn liền với việc thừa nhận đặc tính này" - là cái đặc tính tồn tại với tư cách là hiện thực khách quan, tồn tại ở ngoài ý thức chúng ta
+- Thứ hai, vật chất là cái mà khi tác động vào các giác quan con người thì đem lại cho con người cảm giác. Trái với quan niệm "khách quan" mang tính chất duy tâm về sự tồn tại của vật chất, Lênin khẳng định rằng, vật chất luôn biểu hiện đặc tính hiện thực khách quan của mình thông qua sự tồn tại không lệ thuộc vào ý thức của các sự vật, hiện tượng cụ thể, tức là luôn biểu hiện sự tồn tại hiện thực của mình dưới dạng thực thể. Các thực thể này, do những đặc tính bản thể luận vốn có của nó, khi trực tiếp hoặc gián tiếp tác động vào các giác quan sẽ đem lại cho con người những cảm giác
+- Thứ ba, vật chất là cái mà ý thức chẳng qua chỉ là sự phản ánh của nó. Chỉ có một thế giới duy nhất là thế giới vật chất. Trong thế giới ấy, theo quy luật vốn có của nó mà đến một thời điểm nhất định sẽ cùng một lúc tồn tại hai hiện tương - hiện tượng vật chất và hiện tượng tinh thần. Các hiện tượng vật chất luôn tồn tại khách quan, không lệ thuộc vào các hiện tượng tinh thầnh; còn các hiện tượng tinh thần (cảm giác, tư duy, ý thức,...) lại luôn luôn có nguồn gốc từ các hiện tượng vật chất và những gì có được trong các hiện tượng tinh thần ấy (nội dung của chúng) chẳng qua chỉ là chép lại, chụp lại, là bản sao của các sự vật, hiện tượng đang tồn tại với tư cách hiện thực khách quan
+#### Ý nghĩa của định nghĩa (3 ý) (1 điểm)
+- Định nghĩa vật chất của Lênin giải quyết triệt để 2 mặt trong vấn đề cơ bản của triết học trên lập trường tư duy biện chứng
+- Định nghĩa vật chất của Lênin khắc phục được hạn chế sai lầm trong quan niệm về vật chất của chủ nghĩa duy vật siêu hình
+- Định nghĩa vật chất của Lênin là cơ sở khoa học cho việc xác định và xây dựng vật chất trong lĩnh vực đời sống xã hội
 # Nội dung IV: Phạm trù ý thức
 ### 1. (6 điểm) Phân tích quan điểm của chủ nghĩa duy vật biện chứng về nguồn gốc và bản chất của ý thức
 #### Nguồn gốc của ý thức (4 điểm)
