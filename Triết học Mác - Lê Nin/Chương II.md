@@ -168,3 +168,29 @@ Là sự phân nhánh của con người về hiện thực khách quan, đượ
 		- Thứ ba, giữa các mặt đối lập có sự tương đồng
 	- *Đấu tranh giữa các mặt đối lập* là khái niệm dùng để chỉ sự tác động qua lại theo hướng bài trừ, phủ định lẫn nhau giữa chúng
 	- *Mâu thuẫn biện chứng* chỉ mối liên hệ thống nhất, đấu tranh, chuyển hoá lẫn nhau của các mặt đối lập
+## III. Lí luận nhận thức:
+### 1. Quan niệm về nhận thức trong lịch sử triết học:
+### 2. Lí luận của nhận thức duy vật biện chứng:
+#### a. Nguồn gốc, bản chất của nhận thức:
+- Thế giới hiện thực khách quan là nguồn gốc duy nhất và cuối cùng của nhận thức con người,
+- Bản chất: chủ nghĩa duy vật biện chứng khẳng định nhận thức là một quá trình phản ánh biện chứng về thế giới hiện thức khách quan một cách tích cực, chủ động, sáng tạo.
+#### b. Thực tiễn và vai trò của thực tiễn đối với nhận thức:
+Khái niệm:
+
+| Quan niệm trước Mác                                                                                                                                                                                                                                                                                  | Quan niệm của Mác                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CNDT: hoạt động của tinh thần nói chung là hoạt động của thực tiễn.<br><br>Triết học tôn giáo: thì cho hoạt động sáng tạo ra vũ trụ của thượng đế là hoạt động thực tiễn.<br><br>CNDVSH: sự vật, hiện tượng, cái cảm giác được, chỉ được nhận thức dưới hình thức khách thể hay hình thức trực quan. | Thực tiễn là toàn bộ hoạt động vật chất – cảm tính, có mục đích, có tính lịch sử - xã hội của con người nhằm cải tạo tự nhiên và xã hội phục vụ nhân loại tiến bộ. |
+- Các hình thức hoạt đọng thực tiễn cơ bản:
+	- Hoạt động sản xuất vật chất: là hoạt động đầu tiên và căn bản nhất giúp con người hoàn thiện cả bản tính sinh học và xã hội
+	- Hoạt động chính trị xã hội: là hoạt động nhằm biến đổi các quan hệ xã hội mà đỉnh cao nhất là biến đổi các hình thái kinh tế - xã hội
+	- Hoạt động thực nghiệm khoa học: là quá trình mô phỏng hiện thực khách quan trong phòng thí nghiệm để hình thành chân lí
+	-> Mỗi hoạt động có vai trò khác nhau nhưng sản xuất vật chất là quan trọng nhất
+- Vai trò của thực tiễn đối với nhận thức:
+	- Thực tiễn cung cấp những tài liệu, vật liệu cho nhận thức của con người
+	- Thực tiễn luôn đề ra nhu cầu, nhiệm vụ và phương hướng phát triển của nhận thức, rèn luyện các giác quan của con người ngày càng tinh tế hơn, hoàn thiện hơn
+- Thực tiễn là mục đích của nhận thức:
+	- Nhận thức của con người là nhằm phục vụ thực tiễn, soi đường, dẫn dắt, chỉ đạo thực tiễn
+	- Tri thức chỉ có ý nghĩa khi nó được áp dụng vào đời sống thực tiễn một cách trực tiếp hay gián tiếp để phục vụ con người
+- Thực tiễn là tiêu chuẩn để kiểm tra chân lí:
+	- Chi qua thực nghiệm mới có thể xác định tính đúng đắn của một tri thức.
+#### c. Các giai đoạn cơ bản của quá trình nhận thức:
