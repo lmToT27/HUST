@@ -75,25 +75,90 @@ Vấn đề cơ bản của triết học gồm 2 mặt:
 ### 1. (6 điểm) Phân tích quan điểm của chủ nghĩa duy vật biện chứng về nguồn gốc và bản chất của ý thức
 #### Nguồn gốc của ý thức (4 điểm)
 ##### Nguồn gốc tự nhiên (Bộ não người, Phản ánh và các hình thức phản ánh, thế giới hiện thực khách quan) (2 điểm)
+- Bộ não người và ý thức: ý thức là thuộc tính của 1 dạng vật chất sống có tổ chức cao nhất là bộ não người. Bộ não người có cấu trúc đặc biệt phát triển, rất tin vi và phức tạp. Bộ não là khí quan vật chất của ý thức. Ý thức là chức năng phản ánh của não người.
+- Phản ánh: là thuộc tính chung với mọi dạng vật chất, phản ánh là sự tái tạo những đặc điểm của 1 hệ thống vật chất này lên hệ thống vật chất khác trong quá trình tác động qua lại giữa chúng, có 3 hình thức phản ánh:
+	- Phản ánh vật lý, hóa học là trình độ phản ánh mang tính thụ động, chưa có sự định hướng, lựa chọn, đặc trưng cho các dạng vật chất vô sinh. Ví dụ: dấu chân in lên cát, soi gương, viết bảng,...
+	- Phản ánh sinh học đặc trưng cho các dạng vật chất hữu sinh, được thể hiện thông qua  3 trình độ cơ bản: tính kích thích, tính cảm ứng và tính tâm lý. Ví dụ: tính kích thích là hướng sáng; tính cảm ứng là con hải quỳ; tính tâm lí là ở động vật có hệ thần kinh trung ương.
+	 - Phản ánh ý thức: hình thức đặc trưng riêng chỉ có ở con người, ý thức là 1 sự phản ánh của 1 dạng vật chất có tổ chức cao vào trong bộ não con người. Ý thức phản ánh thế giới vật chất vào bộ não người 1 cách năng động, sáng tạo. Ví dụ: phản xạ có điều kiện ở người.
+Do đó, bộ não người, cùng với thế giới bên ngoài tác động của bộ não người, đó là nguồn gốc tự nhiên của ý thức.
 ##### Nguồn gốc xã hội (Vai trò của lao động, Vai trò của ngôn ngữ) (2 điểm)
+- Vai trò của lao động đối với việc hình thành ý thức:
+	- Lao động đã giải phóng con người khỏi thế giới động vật, mặt khác, cũng giúp con người có khả năgn sáng tạo ra công cụ lao động và sử dụng những công cụ ấy phục vụ mục đích sống của mình
+	- Lao động đã giúp con người tìm ra lửa và nấu chín thức ăn, giúp cho bộ não con người ngày càng phát triển và hoàn thiện về mặt sinh học 
+	- Nhờ lao động, con người tác động vào thế giới khách quan, làm cho thế giới khách quan bộc lộ những thuộc tính, đặc điểm mà dựa vào đó, con người có thể nhận thức được tốt hơn
+	- Lao động dẫn tới sự hình thành ngôn ngữ. Ngôn ngữ một mặt là kết quả của lao động, mặt khác lại là nhân tố tích cực tác động đến quá trình lao động và phát triển ý thức của con người
+- Vai trò của ngôn ngữ đối với việc hình thành ý thức:
+	- Ngôn ngữ là hệ thống tín hiệu vật chất mang nội dung ý thức. Nó xuất hiện trở thành "vỏ vật chất" của tư duy; là hiện thực trực tiếp của ý thức; là phương thức để ý thức tồn tại với tư cách là sản phẩm xã hội - lịch sử
+	- Ngôn ngữ có vai trò to lớn đối với sự tồn tại và phát triển của ý thức. Ngôn ngữ (tiếng nói và chữ viết) vừa là phương tiện giao tiếp, vừa đồng thời là công cụ của tư duy. Nhờ ngôn ngữ, con người có thể khái quát hoá, trừu tượng hoá, suy nghĩ độc lập, tách khỏi sự vật cảm tính
+	- Cũng nhờ có ngôn ngữ mà con người có thể giao tiếp, trao đổi tư tưởng, lưu giữ, kế thừa những tri thức, kinh nghiệm phong phú của xã hội được tích luỹ qua các thế hệ, thời kỳ lịch sử
+	- Ý thức là một hiện tượng có tính xã hội, do đó, không có phương tiện trao đổi xã hội về mặt ngôn ngữ thì ý thức không thể hình thành và phát triển được
+##### Như vậy, lao động và ngôn ngữ là hai sức kích thích chủ yếu làm chuyển biến dần bộ não của loài vượn người thành bộ não con người và tâm lý động vật thành ý thức con người
 #### Bản chất của ý thức (3 ý) (2 điểm)
+- Về bản chất, ý thức là hình ảnh chủ quan của thế giới khách quan, là quá trình phản ánh tích cực, sáng tạo hiện thực khách quan của bộ não con người:
+	- Ý thức là hình ảnh chủ quan về thế giới khách quan. Nội dung mà ý thức phản ánh là khách quan, còn hình thức phản ánh là chủ quan. Ý thức là hình ảnh về thế giới khách quan quyết định cả về hình thức và nội dung, sống nó không còn y nguyên như thế giới khách quan. Theo Mác, ý thức chẳng qua chỉ là vật chất được đem chuyển vào trong bộ não người và được bộ não cải biến đi ở trong đó.
+	- Ý thức là quá trình phản ánh tích cực, sáng tạo hiện thực khách quan bộ não con người. Trên cơ sở những cái đã có, ý thức có khả năng tạo ra tri thức mới, tưởng tượng ra cái không có thực trong thực tế, tiên đoán và dự báo tương lai. . . để quay trở lại chỉ đạo hoạt động thực tiễn, cải tạo thế giới hiện thực.
+	- Ý thức là 1 hiện thực mang bản chất xã hội: sự ra đời và tồn tại của ý thức gắn liền với hoạt động thực tiễn, chịu sự chi phối của các quy luật tự nhiên, xã hội. Ý thức là hình thức phản ánh cao nhất riêng có của bộ não người về hiện thực khách quan trên cơ sở thực tiễn lịch sử - xã hội.
 # Nội dung V: Nguyên lý về sự phát triển
 ### 1. (6 điểm) Phân tích cơ sở lý luận của Nguyên tắc Phát triển? ĐCSVN đã vận dụng nguyên tắc này như thế nào trong thời kỳ đổi mới?
 #### Nguyên tắc phát triển (yêu cầu) (1 điểm)
-###### Cơ sở lý luận về Nguyên tắc Phát triển là: Nội dung Nguyên lý về phát triển
+Nguyên tắc phát triển trong hoạt động nhận thức và hoạt động thực tiễn là một trong những nguyên tắc phương pháp luận cơ bản, quan trọng của phép biện chứng duy vật. Cơ sở lý luận của Nguyên tắc phát triển chính là nội dung nguyên lý về sự phát triển
 #### Nội dung Nguyên lý về Phát triển (4 điểm)
 ##### Khái niệm & Phân tích khái niệm Phát triển (1 điểm)
+- Quan điểm siêu hình: Nói chung, phủ nhận sự phát triển của sự vật, hiện tượng. Nếu có, coi phát triển là sự tăng lên hay giảm đi về lượng; nguồn gốc của phát triển nằm ngoài sự vật
+- Quan điểm duy vật biện chứng: Phát triển là quá trình vận động từ thấp đến cao, từ kém hoàn thiện đến hoàn thiện hơn, từ chất cũ đến chất mới ở trình độ cao hơn.
+- Như vậy, phát triển là vận động nhưng không phải mọi vận động đều là phát triển, mà chỉ có vận động nào theo khuynh hướng đi lên thì mới là phát triển. Phát triển là sự vận động đi lên thông qua bước nhảy làm cho sự vật cũ mất đi, sự vật mới ra đời, thay thế.
+- Nguồn gốc phát triển là sự tác động, đấu tranh giữa các mặt đối lập bên trong sự vật, hiện tượng.
+- Phát triển diễn ra theo đường xoáy ốc: có kế thừa, dường như lặp lại sự vật, hiện tượng cụ nhưng trên cơ sở cao hơn; không thẳng thắp mà diễn ra quanh co, phức tạp, có thể có bước thụt lùi tương đối.
 ##### Tính chất của sự phát triển (3 điểm) (4 tính chất: khách quan, phổ biến, kế thừa, phong phú đa dạng)
+- Tính khách quan: Nguồn gốc phát triển là do mâu thuẫn bên trong sự vật, do đó, phát triển diễn ra khách quan, không phụ thuộc vào ý thức con người. Ví dụ: Sự ra đời của nền sản xuất hàng hóa là khách quan, không phụ thuộc ý thức con người
+- Tính phổ biến: sự phát triển diễn ra ở mọi lĩnh vực tự nhiên, xã hôi, tư duy; trong tất cả mọi sự vật, hiện tượng và trong mọi quá trình, mọi giai đoạn của sự vật hiện tượng đó. Ví dụ trong xã hội loài người, chúng ta phát triển từ: Công xã nguyên thủy, Chiếm hữu nô lệ, phong kiến, tư bản chủ nghĩa và công sản chủ nghĩa. Trong tư duy của con người cũng phát triển xuyên suốt chiều dài của lịch sử,...
+- Tính kế thừa: Phát triển là quá trình cái mới thay thế cái cũ nhưng không phủ định sạch trơn mà kế thừa và tiếp tục phát triển những mặt tích cực của cái cũ. Ví dụ: trong quá trình phát triển, cây lúa phủ định cây mạ non, hạt thóc là phủ định của cây lúa. Con ếch phát triển từ con nòng nọc nhưng không phủ định hoàn toàn con nòng nọc mà kế thừa lại những đặc điểm sinh lí của nòng nọc,...
+- Tính phong phú, đa dạng của phát triển: Mỗi sự vật cụ thể có quá trình phát triển cụ thể, không giống nhau. Sự phát triển còn phụ thuộc vào không gian, thời gian khác nhau, vào điều kiện tác động lên sự phát triển đó. Ví dụ: Cùng là sinh viên trong 1 lớp, nhưng sự phát triển của mỗi sinh viên là khác nhau, phụ thuộc vào năng lực, quyết tâm, môi trường xung quanh,...
 #### Sự vận dụng của Đảng Cộng sản Việt Nam (1 điểm)
 ##### Thực tiễn khách quan đòi cần phải đổi mới để phát triển đất nước
 ##### Đổi mới trên mọi lĩnh vực kinh tế, chính trị
 ##### Thành quả đổi mới
+Thực tiễn khách quan và xu hướng của thế giới đòi hỏi ĐCSVN phải đổi mới trên mọi lĩnh vực để phát triển đất nước. Do Đảng ta luôn xác định được khâu then chốt, tập trung giải quyết các vấn đề cụ thể trong từng khía cạnh nên trong công cuộc đổi mới toàn diện đất nước thời gian vừa qua đã đạt được nhiều thành tựu đáng kể trên mọi lĩnh vực: 
+- Về kinh tế, liên tiếp từ năm 2016 - 2019, Việt Nam đứng trong top 10 nước tăng trưởng cao nhất thế giới, là một trong 16 nền kinh tế mới nổi thành công nhất, bình quân thu nhập đầu người đạt khoảng 2.750 USD/năm. 
+- Về chính trí ngoại giao, Việt Nam gia nhập WTO, thiết lập được 30 đối tác chiến lược ,có quan hệ ngoại giao, kinh tế với hơn 180 quốc gia và vùng lãnh thổ. 
+- Về y tế đạt tiến bộ lớn, làm chủ nhiều công nghệ, kĩ thuật hiện đại, kiểm soát đc đại dịch COVID-19,...
 # Nội dung VI: Quy luật
 ### 1. (6 điểm) Phân tích nội dung quy luật thống nhất và đấu tranh của các mặt đối lập? Ý nghĩa phương pháp luận của việc nghiên cứu quy luật này?
 #### Vị trí và vai trò của quy luật
+- Vị trí: Là một trong 3 quy luật cơ bản của phép biện chứng duy vật (là hạt nhân của phéo
+biện chứng duy vật)
+- Vai trò: Chỉ ra nguồn gốc, động lực của sự vận động và phát triển của các sự vật, hiện
+tượng
 #### Nội dung quy luật
 ##### Khái niệm (2.5 điểm)
-- Mặt đối lập, thống nhất mặt đối lập, đấu tranh mặt đối lập
-- Mâu thuẫn (Định nghĩa, tính chất)
+###### Mặt đối lập, thống nhất mặt đối lập, đấu tranh mặt đối lập
+- Mặt đối lập là những đặc điểm, những thuộc tính, những tính quy định có khuynh hướng biến đổi trái ngược nhau, tồn tại một cách khách quan trong mỗi sự vật, hiện tượng của tự nhiên, xã hội và tư duy. Ví dụ: tốt – xấu, phải – trái, đúng – sai,…
+- Thống nhất giữa các mặt đối lập là khái niệm chỉ sự liên hệ giữa các mặt đối lập, các mặt này quy định lẫn nhau, nương tựa vào nhau, làm tiền đề tồn tại cho nhau. Thống nhất giữa các mặt đối lập có tính tạm thời tương đối, tức chỉ tồn tại trong trạng thái đứng im tương đối của các sự vật, hiện tượng
+- Đấu tranh mặt đối lập là khái niệm dùng để chỉ sự tác động qua lại theo xu hướng bài trừ và phủ định lẫn nhau giữa các mặt đối lập. Đấu tranh giữa các mặt đối lập làm cho sự vật vận động, phát triển chứ không phá vỡ sự vật. Đấu tranh giữa các mặt đối lập có tính tuyệt đối, tức là đấu tranh phá vỡ sự ổn định tương đối dẫn đến sự chuyển hoá về chất của chúng
+###### Mâu thuẫn (Định nghĩa, tính chất)
+- Mâu thuẫn biện chứng là khái niệm dùng để chỉ sự liên hệ, tác động vừa thống nhất, vừa đấu tranh, vừa chuyển hoá lẫn nhau giữa các mặt đối lập. Mâu thuẫn bgienej chứng là khách quan, phổ biến ở mọi sự vật, hiện tượng trong tự nhiên, xã hội và tư duy
+- Các tính chất chung của mâu thuẫn:
+	- Tính khách quan: Vì mâu thuẫn là cái vốn có trong sự vật, hiện tượng, là bản chất chung của mọi sự vật, hiện tượng
+	- Tính phổ biến: Không có sự vật nào của tự nhiên, xã hội và tư duy không có mâu thuẫn, mâu thuẫn này mất đi thì mâu thuẫn khác xuất hiện, từ đó sự vật phát triển không ngừng
+	- Tính đa dạng, phong phú: thể hiện ở chỗ, mỗi sự vật, hiện tượng, quá trình bao hàm nhiều loại mâu thuẫn khác nhau
 ##### Mâu thuẫn là nguồn gốc động lực bên trong của sự phát triển (2.5 điểm)
+- Mọi sự vật, hiện tượng trong thế giới đều bao gồm những mặt, những thuộc tính, những khuynh hướng,... đối lập nhau tạo thành mâu thuẫn trong chính bản thân nó. Sự thống nhất và đấu tranh giữa các mặt đối lập này là nguyên nhân, động lực bên trong của sự vận động và phát triển, làm cho cái cũ mất đi và cái mới ra đời. Do đó, mâu thuẫn là nguồn gốc, động lực của sự vận động và phát triển của các sự vật, hiện tượng
+- Phân loại mâu thuẫn:
+	- Căn cứ vào sự tồn tại và phát triển của toàn bộ sự vật, hiện tượng: mâu thuẫn cơ bản - mâu thuẫn không cơ bản:
+		- Mâu thuẫn cơ bản tác động trong suốt quá trình tồn tại của sự vật, hiện tượng. Nó quy định bản chất, sự phát triển của chúng từ khi hình thành đến lúc tiêu vong
+		- Mâu thuẫn không cơ bản đặc trưng cho một phương diện nào đó, chỉ quy định sự vận động, phát triển của một hay một số mặt của sự vật, hiện tượng và chịu sự chi phối của mâu thuẫn cơ bản
+	-  Căn cứ vào vai trò của mâu thuẫn đối với sự tồn tại và phát triển của sự vật, hiện tượng trong mỗi giai đoạn nhất định: mâu thuẫn chủ yếu – mâu thuẫn thứ yếu:
+		- Mâu thuẫn chủ yếu là mâu thuẫn nổi lên hàng đầu trong một giai đoạn phát triển của sự vật, hiện tượng và chi phối các mâu thuẫn còn lại
+		- Mâu thuẫn thứ yếu không đóng vai trò quyết định trong sự vận động phát triển của sự vật, hiện tượng
+		- Hai mâu thuẫn này có thể chuyển hóa cho nhau trong những giai đoạn lịch sử khác nhau
+	- Căn cứ vào quan hệ giữa các mặt đối lập trong một sự vật, hiện tượng: mâu thuẫn bên trong – mâu thuẫn bên ngoài:
+		- Mâu thuẫn bên trong là mâu thuẫn trong chính mỗi sự vật, hiện tượng, quy định trực tiếp quá trình vận động và phát triển của sự vật, hiện tượng
+		- Mâu thuẫn bên ngoài là mâu thuẫn xuất hiện trong mối liên hệ giữa các sự vật, hiện tượng với nhau
+		- Trong đó, mâu thuẫn bên trong có tác động trực tiếp, mâu thuẫn bên ngoài có vai trò gián tiếp
+	- Căn cứ vào tính chất của lợi ích cơ bản của các giai cấp ở một giai đoạn lịch sử nhất định của xã hội: mâu thuẫn đối kháng – mâu thuẫn không đối kháng:
+		- Mâu thuẫn đối kháng là mâu thuẫn giữa các giai cấp, tập đoàn người, các tầng lớp,…có lợi ích cơ bản đối lập nhau không thể điều hòa được (địa chủ - nông dân; bóc lột - bị bóc lột,…). Giải quyết mâu thuẫn này bằng cách đấu tranh giai cấp
+		- Mâu thuẫn không đối kháng là mâu thuẫn giữa các giai cấp, tập đoàn người, các tầng lớp,… có lợi ích cơ bản không đối lập nhau, đó là mâu thuẫn cục bộ, tạm thời, chỉ biểu hiện sự chênh lệch, được giải quyết bằng tương trợ, hợp tác cùng phát triển
 #### Ý nghĩa phương pháp luận (1 điểm) (3 ý)
+- Tôn trọng mâu thuẫn, phát hiện mâu thuẫn, từ đó tìm phương pháp giải quyết phù hợp, thúc đẩy sự phát triển
+- Phân tích mâu thuẫn cụ thể trong trường hợp cụ thể: bản chất của sự vật khác nhau, quá trình khác nhau, mâu thuẫn khác nhau, từ đó có cách giải quyết khác nhau, tránh máy móc
+- Muốn thay đổi bản chất của sự vật thì phải giải quyết mâu thuẫn bằng đấu tranh giữa các mặt đối lập, không điều hòa, nóng vội hay bảo thủ
