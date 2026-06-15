@@ -27,11 +27,6 @@ Vấn đề cơ bản của triết học gồm 2 mặt:
 	- Gồm 2 cách giải quyết khác nhau: khả tri luận và bất khả tri luận
 	- Khả tri luận thừa nhận khả năng nhận thức được thế giới của con người. Về nguyên tắc, con người có thể hiểu được bản chất của sự vật, hiện tượng
 	- Bất khả tri luận phủ nhận khả năng nhận thức của con người, cho rằng con người không có khả năng nhận thức về thế giới. Nếu có thì đó chỉ là sự nhận thức bề ngoài, không phải là sự nhận thức bản chất bên trong của sự vật, hiện tượng
-### 2. (4 điểm) Tại sao mối quan hệ giữa tư duy và tồn tại hay giữa vật chất và ý thức là vấn đề cơ bản của triết học?
-#### Định nghĩa (2đ)
-- Ăng-ghen:...
-- 2 mặt trong vấn đề cơ bản của triết học
-#### Tại sao (2đ)
 # Nội dung II: Sự đối lập giữa 2 phương pháp tư duy Biện chứng - Siêu hình
 ### 1. (4 điểm) Phân tích sự đối lập giữa phương pháp biện chứng và phương pháp siêu hình và ý nghĩa của hai phương pháp tư duy đó
 #### Phương pháp biện chứng (Sơ lược lịch sử hình thành, phát triển; Bản chất và ý nghĩa) (2 điểm)
@@ -122,7 +117,7 @@ Thực tiễn khách quan và xu hướng của thế giới đòi hỏi ĐCSVN 
 - Về kinh tế, liên tiếp từ năm 2016 - 2019, Việt Nam đứng trong top 10 nước tăng trưởng cao nhất thế giới, là một trong 16 nền kinh tế mới nổi thành công nhất, bình quân thu nhập đầu người đạt khoảng 2.750 USD/năm. 
 - Về chính trí ngoại giao, Việt Nam gia nhập WTO, thiết lập được 30 đối tác chiến lược ,có quan hệ ngoại giao, kinh tế với hơn 180 quốc gia và vùng lãnh thổ. 
 - Về y tế đạt tiến bộ lớn, làm chủ nhiều công nghệ, kĩ thuật hiện đại, kiểm soát đc đại dịch COVID-19,...
-# Nội dung VI: Quy luật
+# Nội dung VI: Quy luật mâu thuẫn
 ### 1. (6 điểm) Phân tích nội dung quy luật thống nhất và đấu tranh của các mặt đối lập? Ý nghĩa phương pháp luận của việc nghiên cứu quy luật này?
 #### Vị trí và vai trò của quy luật
 - Vị trí: Là một trong 3 quy luật cơ bản của phép biện chứng duy vật (là hạt nhân của phéo
@@ -162,3 +157,56 @@ tượng
 - Tôn trọng mâu thuẫn, phát hiện mâu thuẫn, từ đó tìm phương pháp giải quyết phù hợp, thúc đẩy sự phát triển
 - Phân tích mâu thuẫn cụ thể trong trường hợp cụ thể: bản chất của sự vật khác nhau, quá trình khác nhau, mâu thuẫn khác nhau, từ đó có cách giải quyết khác nhau, tránh máy móc
 - Muốn thay đổi bản chất của sự vật thì phải giải quyết mâu thuẫn bằng đấu tranh giữa các mặt đối lập, không điều hòa, nóng vội hay bảo thủ
+# Nội dung VII: Hai giai đoạn của quá trình nhận thức
+### 1. (6 điểm) Lênin viết: "Từ trực quan sinh động đến tư duy trừu tượng đến thực tiễn, đó là con đường biện chứng của sự nhận thức chân lý, nhận thức thực tại khách quan". Anh (chị) phân tích luận điểm trên và rút ra ý nghĩa của nó?
+- Trong luận điểm: "Từ trực quan sinh động đến tư duy trừu tượng đến thực tiễn, đó là con đường biện chứng của sự nhận thức chân lý, nhận thức thực tại khách quan", Lênin khái quát về quá trình nhận thức thông qua hai giai đoạn:
+##### Nhận thức cảm tính (NTCT? Các hình thức của NTCT? Đặc điểm) (2 điểm):
+- Là giai đoạn đầu tiên của quá trình nhận thức, gắn liền với hoạt động thực tiễn. Ở giai đoạn này, nhận thức của con người là sự phản ánh trực tiếp khách thể thông qua các giác quan được diễn ra dưới ba hình thức: cảm giác, tri giác và biểu tượng:
+	- Cảm giác: Là hình thức đầu tiên, đơn giản nhất của quá trình nhận thức được nảy sinh do sự tác động trực tiếp của khách thể lên các giác quan của con người, đưa lại cho con người những thông tin trực tiếp, giản đơn nhất về một thuộc tính riêng lẻ của sự vật. Cảm giác là hình ảnh chủ quan của thế giới khách quan. Thế giới khách quan là nguồn gốc, nội dung khách quan của cảm giác, do đó là nguồn gốc của mọi hiểu biết của con người
+	- Tri giác: Là kết quả của sự tác động trực tiếp của sự vật đồng thời lên nhiều giác quan của con người. Do đó, có thể nói, tri giác là tổng hợp của nhiều cảm giác. Tri giác cho ta hình ảnh về sự vật trọn vẹn hơn cảm giác, nhưng tri giác vẫn là hình ảnh trực tiếp, cảm tính về sự vật
+	- Biểu tượng: Là hình thức cao nhất và phức tạp nhất của nhận thức cảm tính. Biểu tượng là hình ảnh của sự vật được tái hiện trong bộ não khi sự vật không trực tiếp tác động vào giác quan con người
+- Như vậy, nhận thức cảm tính chưa đem lại những biểu hiện sâu sắc, khái quát trong tính chỉnh thể về sự vật. Nhận thức cảm tính chưa phân biệt được cái riêng, cái chung, bản chất và hiện tượng, nguyên nhân và kết quả,… của sự vật. Để hiểu được bản chất sự vật sâu sắc hơn, nhận thức phải lên giai đoạn cao hơn là nhận thức lý tính (tư duy trừu tượng)
+##### Nhận thức lý tính (NTLT? Các hình thức của NTLT? Đặc điểm) (2 điểm):
+- Bắt nguồn tự trực quan sinh động, tư duy trừu tượng là sự phản ánh gián tiếp, khái quát, trừu tượng hiện thực khách quan bởi bộ não người và được thể hiện dưới ba hình thức cơ bản: khái niệm, phán đoán, suy lý (suy luận):
+	- Khái niệm: Là hình thức cơ bản của tư duy trừu tượng, phản ánh khái quát, gián tiếp một hoặc một số thuộc tính chung có tính bản chất của một nhóm sự vật, hiện tượng, được biểu thị bằng một từ hay một cụm từ
+	- Phán đoán: Là hình thức liên hệ các khái niệm, phản ánh mối liên hệ giữa các sự vật, hiện tượng của thế giới trong ý thức con người. Phán đoán là một hình thức của tư duy trừu tượng liên kết các khái niệm để khẳng định hay phủ định một thuộc tính nào đó của đối tượng
+	- Suy lý (suy luận): Là một hình thức của tư duy trừu tượng, liên kết các phán đoán với nhau theo quy tắc: phán đoán kết luận được suy ra từ những phán đoán đã biết làm tiền đề. Có hai loại suy luận: suy luận quy nạp và suy luận diễn dịch
+- Như vậy, nhận thức lý tính đã phản ánh khái quát, trừu tượng, gián tiếp sự vật, hiện tượng trong tính tất yếu, chỉnh thể toàn diện. Vì vậy, nhận thức lý tính có thể phản ánh được trong mối liên hệ bản chất, tất nhiên, bên trong của sự vật; đồng thời, nó luôn hàm chứa nguy cơ xa rời hiện thực. Do đó, nhận thức lý tính phải được gắn liền với thực tiễn và được kiểm tra bởi thực tiễn. Đây cũng là bước chuyển từ tư duy trừu tượng đến thực tiễn
+##### Quan hệ giữa NTCT & NTLT (0.5 điểm):
+- Nhận thức cảm tính và nhận thức lý tính là hai giai đoạn khác nhau về chất nhưng lại thống nhất, liên hệ, bổ sung cho nhau trong quá trình nhận thức của con người
+- Nhận thức cảm tính là cơ sở của nhận thức lý tính, không có nhận thức cảm tính thì không có nhận thức lý tính
+- Nhận thức lý tính giúp cho nhận thức cảm tính có sự định hướng đúng đắn và trở nên sâu sắc hơn. Nhờ có nhận thức lý tính con người mới có thể nhận thức được bản chất của sự vật, hiện tượng
+#### Tư duy trừu tượng - thực tiễn (1 điểm):
+##### Nhận thức quay về thực tiễn (Từ tư duy trừu tượng đến thực tiễn):
+- Mục đích của nhận thức là phục vụ thực tiễn để cải tạo hiện thực
+- Thực tiễn có vai trò kiểm tra tính đúng đắn của các tri thức mới.
+- Hiện thực khách quan luôn vận động biến đổi, để bổ sung tri thức mới của sự vật cần phải thông qua hoạt động thực tiễn
+##### "Vòng khâu" của quá trình nhận thức (Sự thống nhất giữa trực quan sinh động, tư duy trừu tượng và thực tiễn:
+- Một vòng khâu của quá trình nhận thức được bắt đầu từ trực quan sinh động đến tư duy trừu tượng và từ tư duy trừu tượng đến thực tiễn. Trong đó, thực tiễn vừa là cơ sở, vừa là khâu kết thúc và đồng thời có vai trò kiểm tra tính chân thực các kết quả nhận thức. Quá trình nhận thức thông qua các vòng khâu nhận thức ngày càng tiến sâu vào bản chất của các sự vật, hiện tượng. Kết thúc vòng khâu này là sự bắt đầu một vòng khâu mới. Cứ thế nhận thức của con người là vô tận. Mỗi nấc thang mà con người đạt được trong quá trình nhận thức đều là kết quả của cả nhận thức cảm tính và nhận thức lý tính, được thực hiện trên cơ sở hoạt đọng thực tiễn
+- Vòng khâu của nhận thức từ trực quan sinh động đến tư duy trừu tượng và từ tư duy trừu tượng đến thực tiễn được lặp đi lặp lại nhưng sâu hơn về bản chất, là quá trình giải quyết mâu thuẫn nảy sinh trong nhận thức, là mâu thuẫn giữa chưa biết và biết, giữa biết ít và biết nhiều, giữa chân lý và sai lầm. Cứ mỗi khi mâu thuẫn được giải quyết thì nhận thức của con người lại tiến gần tới chân lý hơn
+#### Ý nghĩa phương pháp luận (0.5 điểm):
+- Trong hoạt động thực tiễn, cần tránh tuyệt đối hóa vai trò của trực quan sinh động, hạ thấp vai trò của nhận thức lý tính, vì như vậy sẽ rơi vào chủ nghĩa duy cảm. Đồng thời, cần tránh tuyệt đối hóa vai trò tư duy trừu tượng, hạ thấp hoặc phủ nhận vai trò của trực quan sinh động, vì như vậy sẽ rơi vào chủ nghĩa duy lý.
+- Trong hoạt động nhận thức phải xuất phát từ thực tiễn, lấy thực tiễn làm thước đo để kiểm chứng giá trị của những tri thức mới.
+# Nội dung VIII: Quy luật về sự phù hợp của QHSX với trình độ phát triển của LLSX
+### 1. (6 điểm) Phân tích nội dung quy luật về sự phù hợp của QHSX với trình độ phát triển của LLSX? Đảng CSVN đã vận dụng quy luật này như thế nào trong thời kỳ đổi mới?
+- Định nghĩa:
+	- LLSX? Kết cấu LLSX?
+	- QHSX? Kết cấu QHSX?
+	- Trình độ của LLSX?
+- Nội dung Quy luật:
+	- Vai trò quyết định của LLSX
+	- Sự tác động trở lại của QHSX
+- Sự vận dụng của ĐCSVN:
+	- Trước đổi mới
+	- Từ khi đổi mới đến nay: (Phát triển LLSX? thay đổi QHSX cho phù hợp)
+### 2. (4 điểm) Trong kết cấu của LLSX, yếu tố nào giữ vai trò quyết định nhất? Tại sao?
+- Người lao động là yếu tố giữ vai trò quyết định nhất
+- LLSX (Định nghĩa, kết cấu LLSX)
+- Lý giải tại sao?
+### 3. (4 điểm) Trong kết cấu của LLSX, yếu tố nào động nhất, cách mạng nhất? Tại sao?
+- CCLĐ là yếu tố động nhất, cách mạng nhất
+- LLSX (Định nghĩa, Kết cấu LLSX)
+- Lý giải tại sao?
+### 4. (4 điểm) Tại sao khoa học là LLSX trực tiếp của xã hội hiện nay? Cho ví dụ?
+- LLSX (Định nghĩa, Kết cấu LLSX)
+- Lý giải tại sao? Ví dụ

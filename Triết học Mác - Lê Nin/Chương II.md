@@ -193,4 +193,4 @@ Khái niệm:
 	- Tri thức chỉ có ý nghĩa khi nó được áp dụng vào đời sống thực tiễn một cách trực tiếp hay gián tiếp để phục vụ con người
 - Thực tiễn là tiêu chuẩn để kiểm tra chân lí:
 	- Chi qua thực nghiệm mới có thể xác định tính đúng đắn của một tri thức.
-#### c. Các giai đoạn cơ bản của quá trình nhận thức:
+#### c. Các giai đoạn cơ bản của quá trình nhận thức (SGK):
