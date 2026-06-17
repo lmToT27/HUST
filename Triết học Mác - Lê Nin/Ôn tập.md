@@ -186,7 +186,7 @@ tượng
 - Vòng khâu của nhận thức từ trực quan sinh động đến tư duy trừu tượng và từ tư duy trừu tượng đến thực tiễn được lặp đi lặp lại nhưng sâu hơn về bản chất, là quá trình giải quyết mâu thuẫn nảy sinh trong nhận thức, là mâu thuẫn giữa chưa biết và biết, giữa biết ít và biết nhiều, giữa chân lý và sai lầm. Cứ mỗi khi mâu thuẫn được giải quyết thì nhận thức của con người lại tiến gần tới chân lý hơn
 #### Ý nghĩa phương pháp luận (0.5 điểm):
 - Trong hoạt động thực tiễn, cần tránh tuyệt đối hóa vai trò của trực quan sinh động, hạ thấp vai trò của nhận thức lý tính, vì như vậy sẽ rơi vào chủ nghĩa duy cảm. Đồng thời, cần tránh tuyệt đối hóa vai trò tư duy trừu tượng, hạ thấp hoặc phủ nhận vai trò của trực quan sinh động, vì như vậy sẽ rơi vào chủ nghĩa duy lý.
-- Trong hoạt động nhận thức phải xuất phát từ thực tiễn, lấy thực tiễn làm thước đo để kiểm chứng giá trị của những tri thức mới.
+- Trong hoạt động nhận thức phải xuất phát từ thực tiễn, lấy thực tiễn làm thước đo để qkiểm chứng giá trị của những tri thức mới.
 # Nội dung VIII: Quy luật về sự phù hợp của QHSX với trình độ phát triển của LLSX
 ### 1. (6 điểm) Phân tích nội dung quy luật về sự phù hợp của QHSX với trình độ phát triển của LLSX? Đảng CSVN đã vận dụng quy luật này như thế nào trong thời kỳ đổi mới?
 - Định nghĩa:
